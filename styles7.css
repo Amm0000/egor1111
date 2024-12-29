@@ -1,0 +1,24 @@
+@font-face{
+    font-family: "ru_Faberge";
+    src: url("ofont.ru_Faberge.ttf"),
+  }
+body {
+    background-size: 50% auto;
+    background-image: url("ee.jpg");
+    background-repeat: no-repeat;
+    font-family: 'ru_Faberge';
+}
+h1 {
+    color: blue;
+    margin-top: 250px;
+    margin-left: 170px;
+}
+img {
+    border: 8px solid rgb(255, 255, 255);
+    margin-left: 160px;
+}
+h2 {
+    margin-left: 200px;
+    color: darkblue;
+    width: 200px;
+}
